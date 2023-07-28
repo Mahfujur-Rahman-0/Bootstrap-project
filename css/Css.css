@@ -6,7 +6,7 @@
 }
 
 .header-2{
-  background-color: rgb(49, 49, 49);
+  background-color: rgb(32, 32, 32);
   color: white;
 }
 #top-header a{
@@ -21,7 +21,6 @@ html,body{
   height: 100%;
   margin: 0;
   padding: 0;
-  background-color: rgb(99, 99, 99);
   overflow-x: hidden;
   user-select: none;
 }
@@ -54,10 +53,10 @@ a{
   text-decoration: none;
 }
 .bovv:hover{
-  background-color: white;
+  background-color: rgb(99, 99, 99);
 }
 .bovv:hover h4{
-  color: black;
+  color: white;
 }
 #navigate-1 a,
 #navigate-2 a{
